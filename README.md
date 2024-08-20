@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
   =>  Template Name    : MultiShop - Online Shop Website Template
 
-  =>  Template Link    : https://htmlcodex.com/online-shop-website-template
+  =>  Template Link    : https://app.servicesf1.com/incident/list/t/Progress
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
